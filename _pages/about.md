@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: angela_foto cropped.jpg
+  image: angela_foto_cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Barcelona, Spain</p>
