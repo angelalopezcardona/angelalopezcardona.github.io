@@ -7,5 +7,5 @@ related_posts: false
 
 
 
- I've started a research stay at the [University of Glasgow](https://www.gla.ac.uk) where I will focus on Multimodal LLMs.
+Started a research stay at the [University of Glasgow](https://www.gla.ac.uk) where I will focus on Multimodal LLMs.
 

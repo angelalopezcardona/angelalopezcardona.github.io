@@ -7,4 +7,4 @@ related_posts: false
 
 
 
-Our paper [Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions](https://arxiv.org/pdf/2504.06843) has been accepted at [The International Joint Conference on Neural Networks (IJCNN 2025)](https://2025.ijcnn.org).
+Paper accepted at [IJCNN 2025](https://2025.ijcnn.org):[Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions](https://arxiv.org/pdf/2504.06843).

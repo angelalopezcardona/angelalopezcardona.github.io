@@ -7,4 +7,4 @@ related_posts: false
 
 
 
-Our paper [A Comparative Study of Scanpath Models in Graph-Based Visualization](https://arxiv.org/pdf/2503.24160) has been accepted at the [9th Workshop on Eye Tracking and Visualization](https://www.etvis-workshop.org/etvis-2025.html) at [ETRA 2025](https://etra.acm.org/2025/).
+Paper accepted at [ETVIS, ETRA 2025](https://www.etvis-workshop.org/etvis-2025.html):[A Comparative Study of Scanpath Models in Graph-Based Visualization](https://arxiv.org/pdf/2503.24160).
