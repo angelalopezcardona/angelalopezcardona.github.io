@@ -7,4 +7,4 @@ related_posts: false
 ---
 
 
-Attended the [EEML Summer School](https://www.eeml.eu/)
+Attended the [EEML Summer School](https://www.eeml.eu/).
