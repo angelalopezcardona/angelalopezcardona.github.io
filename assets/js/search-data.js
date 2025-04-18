@@ -78,30 +78,43 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-started-phd-at-the-universitat-politècnica-de-catalunya",
-          title: 'Started PhD at the Universitat Politècnica de Catalunya',
+            },},{id: "news-started-phd-at-the-universitat-politècnica-de-catalunya-upc-in-barcelona-spain",
+          title: 'Started PhD at the Universitat Politècnica de Catalunya (UPC) in Barcelona, Spain.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-gave-a-talk-unveiling-llm-what-lies-behind-and-how-to-leverage-them-at-the-innovation-week-held-at-campus-42",
+          title: 'Gave a talk Unveiling LLM: What Lies Behind and How to Leverage Them...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-attended-the-eeml-summer-school",
+          section: "News",},{id: "news-gave-a-talk-brain-computer-interfaces-for-large-language-models-at-the-winc-workshop-and-nanonetworking-day-at-universitat-politècnica-de-catalunya-upc",
+          title: 'Gave a talk Brain-Computer Interfaces for Large Language Models at the WINC Workshop...',
+          description: "",
+          section: "News",},{id: "news-attended-the-eeml-summer-school",
           title: 'Attended the EEML Summer School',
+          description: "",
+          section: "News",},{id: "news-our-paper-seeing-eye-to-ai-human-alignment-via-gaze-based-response-rewards-for-large-language-models-has-been-accepted-at-iclr-2025",
+          title: 'Our paper Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for...',
+          description: "",
+          section: "News",},{id: "news-our-paper-oasst-etc-dataset-alignment-signals-from-eye-tracking-analysis-of-llm-responses-has-been-accepted-at-the-2025-acm-symposium-on-eye-tracking-research-amp-amp-applications-etra",
+          title: 'Our paper OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses has...',
+          description: "",
+          section: "News",},{id: "news-our-paper-a-comparative-study-of-scanpath-models-in-graph-based-visualization-has-been-accepted-at-the-9th-workshop-on-eye-tracking-and-visualization-https-www-etvis-workshop-org-etvis-2025-html-at-etra-2025-https-etra-acm-org-2025",
+          title: 'Our paper A Comparative Study of Scanpath Models in Graph-Based Visualization has been...',
+          description: "",
+          section: "News",},{id: "news-our-paper-integrating-cognitive-processing-signals-into-language-models-a-review-of-advances-applications-and-future-directions-has-been-accepted-at-the-2025-international-joint-conference-on-neural-networks-ijcnn",
+          title: 'Our paper Integrating Cognitive Processing Signals into Language Models: A Review of Advances,...',
           description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%61%6E%67%65%6C%61.%6C%6F%70%65%7A%63%61%72%64%6F%6E%61@%74%65%6C%65%66%6F%6E%69%63%61.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/angela-lopez-cardona-05ba6911a", "_blank");
         },
       },{
         id: 'social-rss',
@@ -115,14 +128,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=GNxrrm0AAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
