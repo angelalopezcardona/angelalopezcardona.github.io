@@ -25,3 +25,5 @@ latest_posts:
 ---
 
 Originally trained as an engineer with both a Bachelor's and Master's degree in Industrial Engineering, I also hold a Master's in Artificial Intelligence from the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/es). After working for over four years developing software and AI solutions within the energy sector, I am currently pursuing a Ph.D. in Computer Science at the Faculty of Informatics of the UPC, in collaboration with [Telefónica Innovación Digital](https://telefonicainnovaciondigital.com).
+
+My research is specifically focused on the intersection of Large Language Models (LLMs) and human cognition. This interdisciplinary area seeks to understand the complex relationship between AI and human thought processes, contributing to a deeper understanding of how LLMs can be better aligned with human cognitive frameworks. 
