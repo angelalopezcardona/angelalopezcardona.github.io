@@ -193,6 +193,12 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/projects.md
+  - _pages/teaching.md
+  - _pages/repositories.md
+  - _posts/
+  - _projects/
+  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
@@ -643,3 +649,5 @@ jsonresume:
   - languages
   - interests
   - references
+
+
