@@ -64,7 +64,7 @@ ninja.data = [{
           section: "News",},{id: "news-attended-the-eeml-summer-school",
           title: 'Attended the EEML Summer School',
           description: "",
-          section: "News",},{id: "news-our-paper-seeing-eye-to-ai-human-alignment-via-gaze-based-response-rewards-for-large-language-models-has-been-accepted-at-iclr-2025",
+          section: "News",},{id: "news-our-paper-seeing-eye-to-ai-human-alignment-via-gaze-based-response-rewards-for-large-language-models-has-been-accepted-at-the-2025-international-conference-on-learning-representations-iclr",
           title: 'Our paper Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for...',
           description: "",
           section: "News",},{id: "news-our-paper-oasst-etc-dataset-alignment-signals-from-eye-tracking-analysis-of-llm-responses-has-been-accepted-at-the-2025-acm-symposium-on-eye-tracking-research-amp-amp-applications-etra",
