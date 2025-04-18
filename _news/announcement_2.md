@@ -1,10 +1,9 @@
 ---
 layout: post
-title: A long announcement with details
 date: 2024-05-10 16:11:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
 
-- **Gave a talk on Reinforcement Learning at Telefónica Innovation Week held at Campus 42**  
+Gave a talk *Unveiling LLM: What Lies Behind and How to Leverage Them* at the Innovation Week held at [Campus 42](https://www.42barcelona.com/es/)

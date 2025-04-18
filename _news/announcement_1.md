@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Started PhD at the Universitat Politècnica de Catalunya
+Started PhD at the Universitat Politècnica de Catalunya (UPC) in Barcelona, Spain.

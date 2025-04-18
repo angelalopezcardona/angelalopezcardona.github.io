@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 
+Gave a talk *Brain-Computer Interfaces for Large Language Models* at the WINC Workshop and Nanonetworking Day at Universitat Politècnica de Catalunya (UPC)
 
-Attended the EEML Summer School
