@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 
-Invited talk *Brain-Computer Interfaces for Large Language Models* at the the International Student Workshop of TelecoRenta from [CCCT](https://www.cttc.cat).
+Invited talk *Brain-Computer Interfaces for Large Language Models* at the the International Student Workshop of TelecoRenta from [CTTC](https://www.cttc.cat).
 
