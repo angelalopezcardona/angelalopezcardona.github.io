@@ -7,4 +7,4 @@ related_posts: false
 
 
 
-Our paper [Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models](https://arxiv.org/pdf/2410.01532) has been accepted at [ICLR 2025](https://iclr.cc).
+Our paper [Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models](https://arxiv.org/pdf/2410.01532) has been accepted at [The 2025 International Conference on Learning Representations (ICLR)](https://iclr.cc).
