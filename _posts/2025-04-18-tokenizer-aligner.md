@@ -31,5 +31,5 @@ To map between tokenisers, first, we perform an initial mapping of tokens to the
 ## Installation
 
 ```sh
-pip install git+https://github.com/anlopez94/tokenizer_aligner.git
+pip install git+https://github.com/angelalopezcardona/tokenizer_aligner.git
 ```
