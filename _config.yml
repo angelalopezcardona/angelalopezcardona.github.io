@@ -125,8 +125,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: Symbiotik Blog
-    rss_url: https://symbiotik-infovis.eu/2024/12/20/aligning-llms-with-human-preferences-with-eye-tracking-rewards/
-
+    posts:
+      - url: https://symbiotik-infovis.eu/2024/12/20/aligning-llms-with-human-preferences-with-eye-tracking-rewards/
+        published_date: 2024-12-20
 
 # -----------------------------------------------------------------------------
 # Newsletter
