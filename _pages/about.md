@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: left
-  image: angela_foto_cropped.jpg
+  image: angela_photo_biblio.jpg
   image_circular: true # crops the image to make it circular
 
 
