@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-* 2025-05-27. Presented the paper [OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses](https://arxiv.org/pdf/2503.10927) at at [ETRA 2025](https://etra.acm.org/2025/).
+* 2025-05-27. Presented the paper [OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses](https://arxiv.org/pdf/2503.10927) at [ETRA 2025](https://etra.acm.org/2025/).
 
 * 2025-05-26. Presented the paper [A Comparative Study of Scanpath Models in Graph-Based Visualization](https://arxiv.org/pdf/2503.24160) at [ETVIS ETRA 2025](https://www.etvis-workshop.org/etvis-2025.html).
 
