@@ -14,7 +14,7 @@ nav_order: 6
 
 * 2025-04-24. Poster presented at [ICLR 2025](https://iclr.cc): [Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models](https://arxiv.org/pdf/2410.01532).
 
-* 2024-07-16. Poster presented at [EEML Summer School](https://www.eeml.eu/):[Proximal Policy Optimization with Graph Neural Networks for Optimal Power Flow]().[LinkedIn Post](https://www.linkedin.com/posts/angela-lopez-cardona-05ba6911a_last-week-i-had-the-pleasure-of-participating-activity-7221174049480032257-CrWt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAB2zewcB5itFVEn4NpoIVqg31CtoiEWa7RA)
+* 2024-07-16. Poster presented at [EEML Summer School](https://www.eeml.eu/):[Proximal Policy Optimization with Graph Neural Networks for Optimal Power Flow](https://arxiv.org/pdf/2212.12470). [LinkedIn Post](https://www.linkedin.com/posts/angela-lopez-cardona-05ba6911a_last-week-i-had-the-pleasure-of-participating-activity-7221174049480032257-CrWt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAB2zewcB5itFVEn4NpoIVqg31CtoiEWa7RA)
 
 * 2024-07-12. Invited talk [Brain-Computer Interfaces for Large Language Models](https://www.linkedin.com/posts/n3cat_n3cat-n3cat-n3cat-ugcPost-7219360225458364416-RlPh?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAB2zewcB5itFVEn4NpoIVqg31CtoiEWa7RA) at the WINC Workshop and Nanonetworking Day at Universitat Politècnica de Catalunya (UPC).
 
