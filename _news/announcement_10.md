@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Attended the [M2l Summer School] in Split, Croatia (https://www.m2lschool.org).
+Attended the [M2l Summer School](https://www.m2lschool.org) in Split, Croatia.
