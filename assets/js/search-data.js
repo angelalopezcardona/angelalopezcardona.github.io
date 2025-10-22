@@ -110,6 +110,9 @@ ninja.data = [{
           section: "News",},{id: "news-attended-the-m2l-summer-school-in-split-croatia",
           title: 'Attended the M2l Summer School in Split, Croatia.',
           description: "",
+          section: "News",},{id: "news-paper-accepted-at-unireps-2025-neurips-brain-language-model-alignment-insights-into-the-platonic-hypothesis-and-intermediate-layer-advantage",
+          title: 'Paper accepted at UniReps 2025, NeurIPS: Brain–Language Model Alignment: Insights into the Platonic...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
