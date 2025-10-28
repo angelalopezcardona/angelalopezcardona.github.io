@@ -6,6 +6,8 @@ description:
 nav: true
 nav_order: 6
 ---
+* 2025-09-13. Poster presented at [M2L 2025](https://www.m2lschool.org): [Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models](https://arxiv.org/pdf/2410.01532).
+
 * 2025-07-03. Presented the paper [Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions](https://arxiv.org/pdf/2504.06843) at [IJCNN 2025](https://2025.ijcnn.org). [LinkedIn post](https://www.linkedin.com/posts/angela-lopez-cardona-05ba6911a_ijcnn2025-llms-cognitivesignals-activity-7347943582357426177-yhPg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB2zewcB5itFVEn4NpoIVqg31CtoiEWa7RA).
 
 * 2025-05-27. Presented the paper [OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses](https://dl.acm.org/doi/10.1145/3725840) at [ETRA 2025](https://etra.acm.org/2025/). [LinkedIn post](https://www.linkedin.com/posts/angela-lopez-cardona-05ba6911a_eyetracking-cognitivesignals-nlp-activity-7340675800439926784-R6VN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB2zewcB5itFVEn4NpoIVqg31CtoiEWa7RA).
