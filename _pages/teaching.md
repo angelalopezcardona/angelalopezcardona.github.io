@@ -8,6 +8,10 @@ nav_order: 6
 ---
 
 ## Posters
+* 2025-12-17. Poster presented at [DLBCN 2025](https://sites.google.com/view/dlbcn2025): [Brain–Language Model Alignment: Insights into the Platonic Hypothesis and Intermediate-Layer Advantage](https://openreview.net/forum?id=k57mkhxyLA#discussion).
+
+* 2025-12-17. Poster presented at [DLBCN 2025](https://sites.google.com/view/dlbcn2025): [OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses](https://dl.acm.org/doi/10.1145/3725840).
+
 * 2025-12-06. Poster presented at [UniReps, NeurIPS 2025](https://unireps.org/2025/): [Brain–Language Model Alignment: Insights into the Platonic Hypothesis and Intermediate-Layer Advantage](https://openreview.net/forum?id=k57mkhxyLA#discussion).
 
 * 2025-12-02. Poster presented at [WiML, NeurIPS 2025](https://sites.google.com/wimlworkshop.org/wimlworkshopneurips2025/home): [Improving Vision-LLMs with Human Cognitive Signals](https://openreview.net/forum?id=9ohbAGxGdO&referrer=%5Bthe%20profile%20of%20Angela%20Lopez-Cardona%5D(%2Fprofile%3Fid%3D~Angela_Lopez-Cardona1)).
@@ -19,6 +23,8 @@ nav_order: 6
 * 2024-07-16. Poster presented at [EEML Summer School](https://www.eeml.eu/): [Proximal Policy Optimization with Graph Neural Networks for Optimal Power Flow](https://arxiv.org/pdf/2212.12470). [LinkedIn Post](https://www.linkedin.com/posts/angela-lopez-cardona-05ba6911a_last-week-i-had-the-pleasure-of-participating-activity-7221174049480032257-CrWt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAB2zewcB5itFVEn4NpoIVqg31CtoiEWa7RA).
 
 ## Talks 
+
+* 2025-12-17. Presented the paper [Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models](https://arxiv.org/pdf/2410.01532) at [DLBCN 2025](https://sites.google.com/view/dlbcn2025).
 
 * 2025-07-03. Presented the paper [Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions](https://ieeexplore.ieee.org/document/11229334) at [IJCNN 2025](https://2025.ijcnn.org). [LinkedIn post](https://www.linkedin.com/posts/angela-lopez-cardona-05ba6911a_ijcnn2025-llms-cognitivesignals-activity-7347943582357426177-yhPg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB2zewcB5itFVEn4NpoIVqg31CtoiEWa7RA).
 
