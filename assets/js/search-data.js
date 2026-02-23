@@ -113,6 +113,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-accepted-at-unireps-2025-neurips-brain-language-model-alignment-insights-into-the-platonic-hypothesis-and-intermediate-layer-advantage",
           title: 'Paper accepted at UniReps 2025, NeurIPS: Brain–Language Model Alignment: Insights into the Platonic...',
           description: "",
+          section: "News",},{id: "news-started-a-short-term-research-stay-at-the-university-of-zurich-within-the-digital-linguistics-group",
+          title: 'Started a short-term research stay at the University of Zurich within the Digital...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
