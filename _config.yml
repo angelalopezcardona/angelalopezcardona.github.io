@@ -133,6 +133,11 @@ external_sources:
     posts:
       - url: https://symbiotik-infovis.eu/2025/06/17/participation-in-etra-2025/
         published_date: 2025-06-16
+
+  - name: Symbiotik Blog - Research Stay in Zürich
+    posts:
+      - url: https://symbiotik-infovis.eu/2026/02/25/research-stay-in-zurich/
+        published_date: 2026-02-25
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
