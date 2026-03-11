@@ -24,6 +24,10 @@ nav_order: 6
 
 ## Talks 
 
+* 2026-03-11. Invited talk *How cognitive data can improve LLM alignment* at [Computational Linguistics and Linguistic Theory (COLT) group](https://www.upf.edu/web/colt) at [Universitat Pompeu Fabra](https://www.upf.edu).
+
+* 2026-02-26. Invited talk *How cognitive data can improve LLM alignment* at [Digital Linguistics Lab](https://www.cl.uzh.ch/en/research-groups/digital-linguistics/lab.html) at University of Zurich.
+
 * 2026-02-21. Invited talk *How cognitive data can improve LLM alignment* at [Cohere Labs](https://cohere.com/research): Community Talks. [Video.](https://www.youtube.com/watch?v=HK2yB3fwYMY).
 
 * 2025-12-17. Presented the paper [Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models](https://arxiv.org/pdf/2410.01532) at [DLBCN 2025](https://sites.google.com/view/dlbcn2025). [LinkedIn post](https://www.linkedin.com/posts/angela-lopez-cardona-05ba6911a_after-coming-back-from-neurips-in-san-diego-activity-7407482249828253697-96z1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB2zewcB5itFVEn4NpoIVqg31CtoiEWa7RA).
