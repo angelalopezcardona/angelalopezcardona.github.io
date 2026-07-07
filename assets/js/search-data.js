@@ -130,6 +130,12 @@ ninja.data = [{
           section: "News",},{id: "news-started-a-short-term-research-stay-at-the-university-of-zurich-within-the-digital-linguistics-group",
           title: 'Started a short-term research stay at the University of Zurich within the Digital...',
           description: "",
+          section: "News",},{id: "news-started-a-research-stay-at-the-universitat-pompeu-fabra-within-the-colt-group",
+          title: 'Started a research stay at the Universitat Pompeu Fabra within the COLT Group....',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-at-rlxf-reinforcement-learning-from-world-feedback-icml-2026-vlfeedback-eeg-neural-signals-as-implicit-feedback-for-vision-language-model-alignment",
+          title: 'Paper accepted at RLxF: Reinforcement Learning from World Feedback @ ICML 2026: VLFEEDBACK-EEG:...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
