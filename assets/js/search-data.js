@@ -136,6 +136,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-accepted-at-rlxf-reinforcement-learning-from-world-feedback-icml-2026-vlfeedback-eeg-neural-signals-as-implicit-feedback-for-vision-language-model-alignment",
           title: 'Paper accepted at RLxF: Reinforcement Learning from World Feedback @ ICML 2026: VLFEEDBACK-EEG:...',
           description: "",
+          section: "News",},{id: "news-started-as-a-spar-fellow-where-i-will-be-working-on-the-project-detecting-hidden-traits-in-synthetic-data",
+          title: 'Started as a SPAR fellow where I will be working on the project...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
