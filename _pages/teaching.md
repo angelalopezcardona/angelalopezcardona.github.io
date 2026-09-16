@@ -8,6 +8,8 @@ nav_order: 6
 ---
 
 ## Posters
+* 2026-07-10. Poster presented at [RLxF: Reinforcement Learning from World Feedback @ ICML 2026](https://sites.google.com/view/rlxf-icml2026/): [VLFEEDBACK-EEG: Neural Signals as Implicit Feedback for Vision-Language Model Alignment](https://icml.cc/virtual/2026/78190).
+
 * 2025-12-17. Poster presented at [DLBCN 2025](https://sites.google.com/view/dlbcn2025): [Brain–Language Model Alignment: Insights into the Platonic Hypothesis and Intermediate-Layer Advantage](https://openreview.net/forum?id=k57mkhxyLA#discussion). [LinkedIn post](https://www.linkedin.com/posts/angela-lopez-cardona-05ba6911a_after-coming-back-from-neurips-in-san-diego-activity-7407482249828253697-96z1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB2zewcB5itFVEn4NpoIVqg31CtoiEWa7RA).
 
 * 2025-12-17. Poster presented at [DLBCN 2025](https://sites.google.com/view/dlbcn2025): [OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses](https://dl.acm.org/doi/10.1145/3725840). [LinkedIn post](https://www.linkedin.com/posts/angela-lopez-cardona-05ba6911a_after-coming-back-from-neurips-in-san-diego-activity-7407482249828253697-96z1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB2zewcB5itFVEn4NpoIVqg31CtoiEWa7RA).
@@ -23,7 +25,7 @@ nav_order: 6
 * 2024-07-16. Poster presented at [EEML Summer School](https://www.eeml.eu/): [Proximal Policy Optimization with Graph Neural Networks for Optimal Power Flow](https://arxiv.org/pdf/2212.12470). [LinkedIn Post](https://www.linkedin.com/posts/angela-lopez-cardona-05ba6911a_last-week-i-had-the-pleasure-of-participating-activity-7221174049480032257-CrWt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAB2zewcB5itFVEn4NpoIVqg31CtoiEWa7RA).
 
 ## Talks 
-* 2026-09-15. Invited talk *Human Gaze as an Alignment Signal for LLMs and VLLMs* at [Bad Meetup 2: AI born in Barcelona](https://www.anopenroom.com/barcelona/events/bad-meetup-2-ai-born-in-barcelona-0915-mtvl8hlf).
+* 2026-09-15. Invited talk *Human Gaze as an Alignment Signal for LLMs and VLLMs* at [Bad Meetup 2: AI born in Barcelona](https://www.linkedin.com/posts/what-an-incredible-evening-huge-thanks-ugcPost-7506004102359818241-95oV/).
 
 * 2026-03-11. Invited talk *How cognitive data can improve LLM alignment* at [Computational Linguistics and Linguistic Theory (COLT) group](https://www.upf.edu/web/colt) at [Universitat Pompeu Fabra](https://www.upf.edu).
 
