@@ -228,6 +228,14 @@ progress::-moz-progress-bar {
   }
 }
 
+// ---------- Medium zoom (publication figures, opened state) ----------
+
+.medium-zoom-image--opened {
+  background-color: #fff !important;
+  border-radius: 0 !important;
+  box-shadow: 0 30px 90px rgba(0, 0, 0, 0.5) !important;
+}
+
 // ---------- Cards (publications, CV, projects) ----------
 
 .card {
