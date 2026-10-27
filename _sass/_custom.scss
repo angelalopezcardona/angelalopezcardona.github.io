@@ -1,0 +1,356 @@
+// =============================================================
+//  Custom styles — Ángela López Cardona
+//  Design tokens, typography, hero, micro-interactions
+// =============================================================
+
+// ---------- Design tokens ----------
+
+$alc-indigo: #4f46e5;
+$alc-indigo-dark-mode: #a5b4fc;
+$alc-gradient-light: linear-gradient(120deg, #4f46e5 0%, #7c3aed 55%, #c026d3 110%);
+$alc-gradient-dark: linear-gradient(120deg, #818cf8 0%, #a78bfa 55%, #f472b6 110%);
+$alc-font-body:
+  "Inter",
+  -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  Roboto,
+  "Helvetica Neue",
+  Arial,
+  sans-serif;
+$alc-font-display: "Sora", $alc-font-body;
+
+:root {
+  --global-theme-color: #{$alc-indigo};
+  --global-hover-color: #{$alc-indigo};
+  --alc-gradient: #{$alc-gradient-light};
+  --alc-glow-1: rgba(99, 102, 241, 0.13);
+  --alc-glow-2: rgba(192, 38, 211, 0.09);
+  --alc-shadow: rgba(79, 70, 229, 0.16);
+  --alc-shadow-strong: rgba(79, 70, 229, 0.28);
+  --alc-surface: #ffffff;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #{$alc-indigo-dark-mode};
+  --global-hover-color: #{$alc-indigo-dark-mode};
+  --alc-gradient: #{$alc-gradient-dark};
+  --alc-glow-1: rgba(129, 140, 248, 0.16);
+  --alc-glow-2: rgba(244, 114, 182, 0.1);
+  --alc-shadow: rgba(129, 140, 248, 0.14);
+  --alc-shadow-strong: rgba(129, 140, 248, 0.24);
+  --alc-surface: #212529;
+}
+
+// ---------- Typography ----------
+
+body {
+  font-family: $alc-font-body;
+  letter-spacing: 0.005em;
+}
+
+h1,
+h2,
+h3,
+h4,
+.navbar-brand {
+  font-family: $alc-font-display;
+  letter-spacing: -0.01em;
+}
+
+::selection {
+  background: rgba(124, 58, 237, 0.25);
+}
+
+// ---------- Scrollbar ----------
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(124, 58, 237, 0.35);
+  border-radius: 6px;
+
+  &:hover {
+    background: rgba(124, 58, 237, 0.55);
+  }
+}
+
+// ---------- Navbar (glass) ----------
+
+.navbar {
+  background-color: rgba(255, 255, 255, 0.82);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+html[data-theme="dark"] .navbar {
+  background-color: rgba(28, 28, 29, 0.82);
+}
+
+.navbar .nav-link {
+  position: relative;
+  font-weight: 500;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    width: 0;
+    height: 2px;
+    border-radius: 2px;
+    background: var(--alc-gradient);
+    transition: width 0.25s ease;
+  }
+
+  &:hover::after {
+    width: 100%;
+  }
+}
+
+.navbar .nav-item.active > .nav-link::after {
+  width: 100%;
+}
+
+.navbar .navbar-brand {
+  font-weight: 700;
+}
+
+// ---------- Scrolling progress bar ----------
+
+progress {
+  color: #{$alc-indigo};
+}
+
+progress::-webkit-progress-value {
+  background: var(--alc-gradient);
+}
+
+progress::-moz-progress-bar {
+  background: var(--alc-indigo);
+}
+
+.progress-bar {
+  background: var(--alc-gradient);
+}
+
+// ---------- Back to top ----------
+
+#back-to-top {
+  background: var(--alc-gradient);
+  color: #fff !important;
+  border-radius: 50%;
+  box-shadow: 0 6px 18px var(--alc-shadow);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 24px var(--alc-shadow-strong);
+    color: #fff;
+  }
+}
+
+// ---------- Section headings ----------
+
+.post h2 {
+  position: relative;
+  font-weight: 600;
+
+  &::after {
+    content: "";
+    display: block;
+    width: 54px;
+    height: 3px;
+    margin-top: 8px;
+    border-radius: 2px;
+    background: var(--alc-gradient);
+    opacity: 0.85;
+  }
+}
+
+// ---------- News rows ----------
+
+.news {
+  .table {
+    tr {
+      transition: background-color 0.2s ease;
+
+      &:hover {
+        background-color: rgba(124, 58, 237, 0.06);
+      }
+    }
+
+    th {
+      color: var(--global-theme-color);
+      font-weight: 600;
+      font-size: 0.875rem;
+      letter-spacing: 0.02em;
+      white-space: nowrap;
+    }
+
+    td {
+      font-size: 0.975rem;
+    }
+  }
+}
+
+// ---------- Publications list ----------
+
+.publications {
+  ol.bibliography {
+    li {
+      padding: 0.35rem 0.5rem;
+      margin-left: -0.5rem;
+      margin-right: -0.5rem;
+      border-radius: 0.5rem;
+      transition: background-color 0.2s ease;
+
+      &:hover {
+        background-color: rgba(124, 58, 237, 0.06);
+      }
+    }
+  }
+}
+
+// ---------- Cards (publications, CV, projects) ----------
+
+.card {
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease,
+    border-color 0.25s ease;
+  border: 1px solid var(--global-divider-color);
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 28px var(--alc-shadow);
+    border-color: rgba(124, 58, 237, 0.35);
+  }
+}
+
+// ---------- Social icons ----------
+
+.social {
+  a {
+    display: inline-block;
+    transition:
+      transform 0.2s ease,
+      color 0.2s ease;
+
+    &:hover {
+      transform: translateY(-3px);
+      color: var(--global-theme-color);
+    }
+  }
+}
+
+// ---------- Home / about hero ----------
+
+@keyframes alc-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes alc-gradient-shift {
+  0%,
+  100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+.page--about {
+  .post-header {
+    position: relative;
+    padding-top: 2.25rem;
+    margin-bottom: 1.5rem;
+    animation: alc-fade-up 0.7s ease both;
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: -3rem;
+      left: -1.5rem;
+      right: -1.5rem;
+      bottom: 0;
+      z-index: -1;
+      pointer-events: none;
+      background: radial-gradient(560px 300px at 18% 10%, var(--alc-glow-1), transparent 70%),
+        radial-gradient(480px 280px at 82% 20%, var(--alc-glow-2), transparent 70%);
+      border-radius: 1rem;
+    }
+  }
+
+  .post-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    background: var(--alc-gradient);
+    background-size: 200% 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    animation: alc-gradient-shift 8s ease-in-out infinite;
+  }
+
+  .desc {
+    margin-top: 0.5rem;
+    font-size: 1.05rem;
+    font-weight: 400;
+    color: var(--global-text-color-light);
+  }
+
+  .profile {
+    animation: alc-fade-up 0.7s 0.12s ease both;
+
+    img {
+      border: 5px solid transparent;
+      background:
+        linear-gradient(var(--alc-surface), var(--alc-surface)) padding-box,
+        var(--alc-gradient) border-box;
+      box-shadow: 0 12px 32px var(--alc-shadow);
+      transition:
+        transform 0.3s ease,
+        box-shadow 0.3s ease;
+
+      &:hover {
+        transform: translateY(-4px) scale(1.01);
+        box-shadow: 0 18px 44px var(--alc-shadow-strong);
+      }
+    }
+  }
+}
+
+// ---------- Reduced motion ----------
+
+@media (prefers-reduced-motion: reduce) {
+  .page--about .post-header,
+  .page--about .profile,
+  .page--about .post-title {
+    animation: none;
+  }
+
+  .card,
+  .social a,
+  #back-to-top,
+  .navbar .nav-link::after,
+  .page--about .profile img {
+    transition: none;
+  }
+}

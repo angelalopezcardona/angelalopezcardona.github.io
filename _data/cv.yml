@@ -2,96 +2,93 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Ángela López Cardona
+    - name: Position
+      value: PhD Researcher
+    - name: Affiliation
+      value: Universitat Politècnica de Catalunya (UPC) · Telefónica Innovación Digital
+    - name: Location
+      value: Barcelona, Spain
     - name: Languages
-      value: English, German
+      value: Spanish, Catalan, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science (in progress)
+      institution: Universitat Politècnica de Catalunya (UPC)
+      year: "2023 - present"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "Industrial PhD with <a href='https://telefonicainnovaciondigital.com' target='_blank'>Telefónica Innovación Digital</a>."
+        - "Supervised by <a href='https://sergiabadal.com' target='_blank'>Sergi Abadal</a> and <a href='https://www.linkedin.com/in/ioannisarapakis/' target='_blank'>Ioannis Arapakis</a>."
+        - "Research on aligning large language models with human cognitive signals (eye tracking, EEG), reward modeling (RLHF, DPO), and multimodal architectures."
+        - "<a href='https://sparai.org' target='_blank'>SPAR fellow</a> (2026 -): project <a href='https://sparai.org/projects/f26/recbA2AtJc7pTndAJ/' target='_blank'>Detecting Hidden Traits in Synthetic Data</a>."
+    - title: MSc in Artificial Intelligence
+      institution: Universitat Politècnica de Catalunya (FIB)
+      year: ""
+    - title: MSc in Industrial Engineering
+      institution: Universitat Politècnica de Catalunya (ETSEIB)
+      year: ""
+    - title: BSc in Industrial Engineering
+      institution: Universitat Politècnica de Catalunya (ETSEIB)
+      year: ""
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Industrial PhD Researcher
+      institution: Telefónica Innovación Digital · UPC
+      year: "2023 - present"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Reward modeling from human behavioral data (RLHF, DPO) using eye-tracking and EEG signals."
+        - "Creation of preference datasets (e.g., <a href='https://dl.acm.org/doi/10.1145/3725840' target='_blank'>OASST-ETC</a>) and cognitively inspired training pipelines for LLM and vision-language model alignment."
+    - title: Software Engineer (AI products, energy sector)
+      institution: Energy industry
+      year: "2019 - 2023"
       description:
-        - Description 1.
-        - Description 2.
+        - "Led end-to-end development of AI-driven products and data solutions for the energy sector."
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Visits
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Visiting Researcher, COLT Group
+      institution: Universitat Pompeu Fabra (UPF)
+      year: "2026"
+    - title: Visiting Researcher, Digital Linguistics Group
+      institution: University of Zurich
+      year: "2026"
+    - title: Visiting Researcher
+      institution: University of Glasgow
+      year: "2025"
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Selected Publications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "Á. López-Cardona, C. Segura, A. Karatzoglou, S. Abadal, I. Arapakis. <strong>Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models.</strong> ICLR, 2025."
+    - "Á. López-Cardona, S. Idesis, M. Barreda-Ángeles, S. Abadal, I. Arapakis. <strong>OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses.</strong> ETRA (PACMHCI), 2025."
+    - "Á. López-Cardona, S. Idesis, M. Masias-Bruns, S. Abadal, I. Arapakis. <strong>Brain–Language Model Alignment: Insights into the Platonic Hypothesis and Intermediate-Layer Advantage.</strong> UniReps Workshop @ NeurIPS, 2025."
+    - "A. López-Cardona, P. Emami, S. Idesis, S. Duraisamy, L. A. Leiva, I. Arapakis. <strong>A Comparative Study of Scanpath Models in Graph-Based Visualization.</strong> ETRA, 2025."
+    - "A. López-Cardona, S. Idesis, I. Arapakis. <strong>Integrating Cognitive Processing Signals into Language Models: A Review.</strong> IJCNN, 2025."
+    - "A. López-Cardona, G. Bernárdez, P. Barlet-Ros, A. Cabellos-Aparicio. <strong>Proximal Policy Optimization with Graph Neural Networks for Optimal Power Flow.</strong> DATA, 2022."
+    - "<a href='/publications/' target='_blank'>Full publication list →</a>"
+
+- title: Service
+  type: list
+  contents:
+    - "<strong>Reviewer</strong> — ICLR 2027, ETRA 2026, UniReps Workshop @ NeurIPS 2026, WiML Workshop @ NeurIPS 2026, IJCNN 2025."
+    - "<strong>Volunteer</strong> — ETRA 2025, WiML Workshop @ NeurIPS 2025."
+
+- title: Invited Talks
+  type: list
+  contents:
+    - "*How cognitive data can improve LLM alignment* — Cohere Labs Community Talks, 2026."
+    - "*Brain-Computer Interfaces for Large Language Models* — WINC Workshop, UPC, 2024."
+    - "*Unveiling LLM: What Lies Behind and How to Leverage Them* — Innovation Week, Campus 42 Barcelona, 2024."
+    - "*Brain-Computer Interfaces for Large Language Models* — International Student Workshop, CTTC, 2024."
+
+- title: Other
+  type: list
+  contents:
+    - "M2l Summer School, Split, Croatia (2025)."
+    - "EEML Summer School, Novi Sad, Serbia (2024)."
+    - "ETVIS Workshop @ ETRA 2025."
