@@ -1,9 +1,22 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"DATA":
+  url: https://data.scitevents.org
+  color: "#0369a1"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICLR":
+  url: https://iclr.cc
+  color: "#4f46e5"
 
-"Vision":
-  color: "#009f36"
+"IJCNN":
+  url: https://2025.ijcnn.org
+  color: "#b45309"
+
+"ETRA":
+  url: https://etra.acm.org
+  color: "#0d9488"
+
+"NeurIPS-W":
+  url: https://neurips.cc
+  color: "#7c3aed"
+
+"ECAI":
+  color: "#be185d"
