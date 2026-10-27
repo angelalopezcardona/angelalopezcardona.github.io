@@ -17,15 +17,6 @@ nav_order: 2
 
 ## Service
 
-**Reviewer**
+**Reviewer**: ICLR 2027 · ETRA 2026 · UniReps Workshop @ NeurIPS 2026 · WiML Workshop @ NeurIPS 2026 · IJCNN 2025
 
-- ICLR 2027
-- ETRA 2026
-- UniReps Workshop @ NeurIPS 2026
-- Women in Machine Learning (WiML) Workshop @ NeurIPS 2026
-- IJCNN 2025
-
-**Volunteer**
-
-- ETRA 2025
-- WiML Workshop @ NeurIPS 2025
+**Volunteer**: ETRA 2025 · WiML Workshop @ NeurIPS 2025
