@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD researcher · aligning LLMs with cognitive signals — eye tracking, EEG & reward modeling
+subtitle: Researcher in LLM alignment, interpretability & AI safety
 
 profile:
   align: left
