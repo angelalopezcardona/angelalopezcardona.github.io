@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -131,6 +131,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%61%6E%67%65%6C%61.%6C%6F%70%65%7A%63%61%72%64%6F%6E%61@%74%65%6C%65%66%6F%6E%69%63%61.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/angelalopezcardona", "_blank");
         },
       },{
         id: 'social-linkedin',
